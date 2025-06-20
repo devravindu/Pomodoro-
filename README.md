@@ -2,7 +2,7 @@
 
 A clean, modern, and responsive Pomodoro Timer web application built with vanilla JavaScript, HTML, and Tailwind CSS. This tool helps users manage their work and break sessions using the Pomodoro Technique, boosting productivity and focus.
 
-![Pomodoro Timer Screenshot]([https://i.ibb.co/Y7TGjX1N/Screenshot-2025-06-20-201338.png](https://i.ibb.co/27YBKSCF/Screenshot-2025-06-20-201338.png))
+![Pomodoro Timer Screenshot](https://i.ibb.co/Y7TGjX1N/Screenshot-2025-06-20-201338.png)
 *(Suggestion: Replace the placeholder above with a screenshot or GIF of the running application)*
 
 ---
@@ -109,3 +109,4 @@ Based on the initial project specification, potential features to add include:
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+

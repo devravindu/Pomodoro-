@@ -3,7 +3,6 @@
 A clean, modern, and responsive Pomodoro Timer web application built with vanilla JavaScript, HTML, and Tailwind CSS. This tool helps users manage their work and break sessions using the Pomodoro Technique, boosting productivity and focus.
 
 ![Pomodoro Timer Screenshot](https://i.ibb.co/Y7TGjX1N/Screenshot-2025-06-20-201338.png)
-*(Suggestion: Replace the placeholder above with a screenshot or GIF of the running application)*
 
 ---
 
@@ -22,8 +21,7 @@ A clean, modern, and responsive Pomodoro Timer web application built with vanill
 
 ## 🌐 Live Demo
 
-*(Suggestion: Once deployed, add a link to the live application here.)*
-**[Link to your live app]**
+**[https://devravindu.github.io/Pomodoro-/]**
 
 ---
 
